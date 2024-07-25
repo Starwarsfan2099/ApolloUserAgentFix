@@ -1,0 +1,9 @@
+Package: com.starwarsfan2099.apollouseragentfix
+Name: ApolloUserAgentFix
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hopefully fix Reddit blocking Apollo User Agents
+Maintainer: Starwarsfan2099
+Author: Starwarsfan2099
+Section: Tweaks
